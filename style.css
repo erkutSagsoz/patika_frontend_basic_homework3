@@ -1,0 +1,53 @@
+body {
+    background-color: palegoldenrod;
+}
+
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+    color: brown;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: larger;
+    text-align: left;
+    color: brown;
+}
+
+img {
+    float: left;
+}
+
+.tarif {
+    text-align: left;
+    margin-left: 10px;
+    float: left;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: medium;
+    text-align: left;
+    color: brown;
+}
+
+footer {
+    float: right;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: larger;
+    text-align: left;
+    color: brown;
+    margin-top: 424px;
+    margin-right: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: brown;
+    border: 1px dotted brown;
+    border-radius: 15px;
+    text-align: center;
+    background-color: burlywood;
+}
